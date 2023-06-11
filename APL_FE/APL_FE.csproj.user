@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\FunctionalityForms\CheProf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FunctionalityForms\QuestionForms\DomandeMaterie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FunctionalityForms\QuestionForms\DomandeProfessori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FunctionalityForms\Statistiche.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FunctionalityForms\StatsForms\StatGenerali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FunctionalityForms\StatsForms\StatsUtente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FunctionalityForms\ValutaMaterie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FunctionalityForms\HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FunctionalityForms\ValutaProfessori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
